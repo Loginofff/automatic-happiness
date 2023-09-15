@@ -1,0 +1,52 @@
+body {
+    background-color: #9c9fc8;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .blueText {
+    color: blue;
+  }
+  
+  
+  .centeredText {
+    text-align: center;
+  }
+  .rightText {
+    text-align:right;
+  }
+  
+ 
+  .redText {
+    color: rgb(140, 70, 70);
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .bigText {
+    font-size: 30px;
+    font-style: italic;
+    text-decoration: underline;
+  }
+  
+  .square {
+    height: 200px;
+    width: 200px;
+  }
+  
+  /* стили для круглого элемента */
+  
+  .circle {
+    height: 100px;
+    width: 200px;
+    border-radius: 16%;
+  }
+  
+  .yellow {
+    background-color: #DACC3E;
+  }
+  .string {
+    background-color: rgb(156, 159, 200);
+    font-family: 'Roboto', sans-serif;
+  }
+  .color {
+    background-color: rgb(213, 184, 241);
+  }
