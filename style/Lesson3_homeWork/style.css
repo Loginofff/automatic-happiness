@@ -1,0 +1,115 @@
+body {
+    background-color: #9c9fc8;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .blueText {
+    color: blue;
+  }
+  
+  
+  .centeredText {
+    text-align: center;
+  }
+  .rightText {
+    text-align:right;
+  }
+  
+ 
+  .red {
+    margin: 30px 20px 20px 40px; 
+    background-color: rgb(180, 104, 104);
+}
+  
+  .bigText {
+    font-size: 30px;
+    font-style: italic;
+    text-decoration: underline;
+  }
+  
+  .square {
+    width: 300px;
+    height: 200px;
+    border:thick double #32a1ce;
+    margin: 10px;
+    padding: 10px 80px;
+    box-sizing: border-box;
+    border-radius: 5%;
+   
+}
+  
+  /* стили для круглого элемента */
+  
+  .circle {
+    height: 100px;
+    width: 200px;
+    border-radius: 16%;
+  }
+  
+  .yellow {
+    background-color: #DACC3E;
+  }
+  .string {
+    background-color: rgb(156, 159, 200);
+    font-family: 'Roboto', sans-serif;
+  }
+  .color {
+    background-color: rgb(213, 184, 241);
+  }
+  .red:hover {
+    background-color: rgb(137, 156, 39);
+    transform: rotate(0,5turn);
+}
+.mainHeading {
+  margin-top: 100px;
+  margin-bottom: 140px;
+  margin-left: 100px;
+  margin-right: 20px;
+ 
+}
+.mainHeading2 {
+  margin-top: 100px;
+  margin-bottom: 140px;
+  margin-left: 100px;
+  margin-right: 20px;
+  animation: 3s ease-in 1s infinite reverse both running slidein;
+}
+.square2 {
+  width: 500px;
+  height: 100px;
+  border:thick double #32a1ce;
+  margin: 150px;
+  padding: 10px 100px;
+  box-sizing: border-box;
+  border-radius: 5%;
+ 
+}
+.boxHeading {
+  margin: auto;
+/* text-align: center; */
+} 
+.blue {
+  background-color: rgb(137, 137, 222);
+}
+.image {
+  width: 100px;
+  height: 100px;
+  background-image:url(https://upyachka.io/img//60e/cucu.gif) ;
+  border: 100px;
+ margin-left: auto;
+}
+.image2 {
+  width: 50px;
+  height: 50px;
+  background-image:url(https://upyachka.io/img//60e/cucu.gif) ;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}.blue:hover {
+  background-color: orange;
+  transform: scale(1.2);
+}
+.red:hover {
+  background-color: rgb(137, 156, 39);
+  transform: rotate(0,5turn);
+}
