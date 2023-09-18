@@ -20,7 +20,7 @@
 
 .red {
     margin: 30px 20px 20px 40px; 
-    background-color: rgb(180, 104, 104);
+    background-color: rgb(141, 62, 62);
 }
 
 .blue {
@@ -39,8 +39,8 @@ background-color: rgb(137, 137, 222);
 /* text-align: center; */
 } 
 .image {
-    width: 100px;
-    height: 100px;
+    width: 50px;
+    height: 50px;
     background-image:url(https://upyachka.io/img//60e/cucu.gif) ;
     background-size: contain;
     background-repeat: no-repeat;
